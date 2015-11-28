@@ -1,0 +1,53 @@
+<h2 class="text-muted">My Reminders</h2>
+
+<div class="jumbotron">
+
+
+
+ <a href="/reminders/new" class="new_reminder_link"><span class="glyphicon glyphicon-plus"></span> New Reminder</a>
+
+
+
+
+ <% @reminders.each do |reminder| %>
+ <table class="table table-condensed table-striped">
+  <thead>
+    <tr>
+      <th>
+        <div class="tab">
+          <%= reminder.name %> 
+        </div>
+
+        <div class="float-right">
+          <a href="/reminders/<%= reminder.id %>/edit"><span class="glyphicon glyphicon-edit"></span> Edit </a>  &nbsp; &nbsp; &nbsp;
+          <a data-confirm="Are you sure?" data-method="delete" href="/reminders/<%= reminder.id %>" rel="nofollow"><span class="glyphicon glyphicon-trash"></span> Delete </a>
+        </div>
+
+      </th>
+    </tr>
+  </thead>
+
+
+  <tbody>
+    <% reminder.content.each_line do |item|%>
+    <tr><td><%= item %></td></tr>
+    <% end %>
+  </tbody>
+
+</table>
+<div class="spacer"></div>
+
+<% end %>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+

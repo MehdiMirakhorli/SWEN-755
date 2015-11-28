@@ -1,0 +1,15 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Reminders</a>
+    </div>
+    <div>
+
+      <ul class="nav navbar-nav navbar-right">
+        <li><a><span class="glyphicon glyphicon-user"></span> <%= current_user.email %></a></li>
+        <li><a data-method="delete" href="/users/sign_out" rel="nofollow"><span class="glyphicon glyphicon-log-out"></span> Sign out</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+

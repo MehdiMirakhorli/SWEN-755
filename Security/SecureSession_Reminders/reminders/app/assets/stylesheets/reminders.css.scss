@@ -1,0 +1,45 @@
+// Place all the styles related to the Reminders controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.alert {
+color: red;
+font-size: 120%;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+background-color: white;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td, .table-striped>tbody>tr:nth-child(even)>th {
+background-color: aliceblue;
+}
+
+.new_reminder_link {
+float: right;
+margin-bottom: 30px;
+}
+
+.spacer {
+height: 20px;
+}
+
+.float-right {
+float:right;
+}
+
+
+.tab {
+position: absolute;
+padding: 10px 30px 5px 20px;   
+background:white;   
+border-right:2px solid #ddd;
+border-top:2px solid #ddd;
+
+
+margin-top: -10px;
+margin-left:-5px;
+border-radius:0 20px 0 0; 
+}
+
