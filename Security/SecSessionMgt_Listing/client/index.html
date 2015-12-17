@@ -1,0 +1,55 @@
+<html>
+	<head>
+		<title>Secure Session Management App</title>
+		<style type="text/css">
+			.error {
+				color: red;
+				padding: 5px 0;
+			}
+		</style>
+	</head>
+	<body>
+		<div data-bind="template: view"></div>
+		<script type="text/html" id="template-login">
+			<h2 data-bind=>Login</h2>
+			<div class="error" data-bind="visible: error(), text: error()"></div>
+			<div class="error" data-bind="visible: $root.session().expired">Session expired.</div>
+			<form data-bind="submit: submit">
+				<div>User: <input type="text" data-bind="value: user" /></div>
+				<div>Password: <input type="password" data-bind="value: password" /></div>
+				<div><button >Login</button></div>
+			</form>
+		</script>
+		<script type="text/html" id="template-userlist">
+			<div data-bind="template: {name: 'template-user'}"></div>
+			<h2>User List</h2>
+			<div class="error" data-bind="visible: error(), text: error()"></div>
+			<ul data-bind="foreach: users">
+			    <li data-bind="text: $data"></li>
+			</ul>
+		</script>
+		<script type="text/html" id="template-home">
+			<div data-bind="template: {name: 'template-user'}"></div>
+			<h2>Tasks</h2>
+			<ul>
+			    <li>
+			    	<a href="#" onclick="page('/userlist');return false;">View User List</a>
+			    </li>
+			</ul>
+		</script>
+		<script type="text/html" id="template-user">
+			<div>
+				Logged in as <span style="font-weight: bold" data-bind="text: $root.session().user"></span> <a href="#" onclick="page('/logout');return false;">[logout]</a>
+			</div>
+		</script>
+		<script type="text/html" id="template-notfound">
+			<h2>Error</h2>
+			<div>Page not found</div>
+		</script>
+		<script src="lib/knockout-3.3.0.js"></script>
+		<script src="lib/jquery-1.11.3.min.js"></script>
+		<script src="lib/page.js"></script>
+		<script src="lib/cookie.min.js"></script>
+		<script type="text/javascript" src="app.js"></script>
+	</body>
+</html>
