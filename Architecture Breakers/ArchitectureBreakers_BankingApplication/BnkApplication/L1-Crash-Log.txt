@@ -1,0 +1,128 @@
+login as: kprasad
+kprasad@167.88.123.133's password:
+Last login: Sun Jul 19 15:39:34 2015 from cpe-74-74-161-69.rochester.res.rr.com
+[kprasad@aardvark ~]$ su -
+Password:
+Last failed login: Sun Jul 19 15:40:07 EDT 2015 on pts/0
+There were 5 failed login attempts since the last successful login.
+[root@aardvark ~]# pwd
+/root
+[root@aardvark ~]# cd root/
+-bash: cd: root/: No such file or directory
+[root@aardvark ~]# cd /root
+[root@aardvark ~]# pwd
+/root
+[root@aardvark ~]# cd ..
+[root@aardvark /]# ^C
+[root@aardvark /]# ^C
+[root@aardvark /]# exit
+logout
+[kprasad@aardvark ~]$ su -
+Password:
+Last failed login: Sun Jul 19 15:40:07 EDT 2015 on pts/0
+There were 5 failed login attempts since the last successful login.
+[root@aardvark ~]# cd /var/www/functional
+[root@aardvark functional]# ls
+README.md  client  collections  deploy.sh  lib  packages  packages.json  public  server
+[root@aardvark functional]# bash deploy.sh
+git repo pull request
+Username for 'https://github.com': krishprasadar
+Password for 'https://krishprasadar@github.com':
+remote: Counting objects: 7, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), done.
+From https://github.com/jpeterham1/myspiderweb-functional
+   80d9524..e88eb32  Toast-Message-Formatting -> origin/Toast-Message-Formatting
+Already up-to-date.
+pull complete!
+Project reset.
+Database cleared
+meteor build complete
+npm WARN package.json meteor-dev-bundle@0.0.0 No description
+npm WARN package.json meteor-dev-bundle@0.0.0 No repository field.
+npm WARN package.json meteor-dev-bundle@0.0.0 No README data
+npm http GET https://registry.npmjs.org/fibers/-/fibers-1.0.5.tgz
+npm http GET https://registry.npmjs.org/chalk/0.5.1
+npm http GET https://registry.npmjs.org/semver/-/semver-4.1.0.tgz
+npm http GET https://registry.npmjs.org/source-map-support/-/source-map-support-0.2.8.tgz
+npm http GET https://registry.npmjs.org/underscore/-/underscore-1.5.2.tgz
+npm http GET https://github.com/meteor/node-eachline/tarball/ff89722ff94e6b6a08652bf5f44c8fffea8a21da
+npm http 200 https://registry.npmjs.org/semver/-/semver-4.1.0.tgz
+npm http 304 https://registry.npmjs.org/chalk/0.5.1
+npm http 200 https://registry.npmjs.org/source-map-support/-/source-map-support-0.2.8.tgz
+npm http 200 https://registry.npmjs.org/underscore/-/underscore-1.5.2.tgz
+npm http 200 https://registry.npmjs.org/fibers/-/fibers-1.0.5.tgz
+npm http 200 https://github.com/meteor/node-eachline/tarball/ff89722ff94e6b6a08652bf5f44c8fffea8a21da
+npm http GET https://registry.npmjs.org/ansi-styles
+npm http GET https://registry.npmjs.org/escape-string-regexp
+npm http GET https://registry.npmjs.org/has-ansi
+npm http GET https://registry.npmjs.org/strip-ansi
+npm http GET https://registry.npmjs.org/supports-color
+npm http GET https://registry.npmjs.org/type-of
+npm http 304 https://registry.npmjs.org/escape-string-regexp
+npm http 304 https://registry.npmjs.org/type-of
+npm http 304 https://registry.npmjs.org/ansi-styles
+npm http 304 https://registry.npmjs.org/has-ansi
+npm http 304 https://registry.npmjs.org/supports-color
+npm http 304 https://registry.npmjs.org/strip-ansi
+npm http GET https://registry.npmjs.org/ansi-regex
+npm http GET https://registry.npmjs.org/ansi-regex
+npm http GET https://registry.npmjs.org/source-map/-/source-map-0.1.32.tgz
+npm http 304 https://registry.npmjs.org/ansi-regex
+npm http 304 https://registry.npmjs.org/ansi-regex
+npm http 200 https://registry.npmjs.org/source-map/-/source-map-0.1.32.tgz
+
+> fibers@1.0.5 install /var/www/build/bundle/programs/server/node_modules/fibers
+> node ./build.js
+
+`linux-x64-v8-3.14` exists; testing
+npm http GET https://registry.npmjs.org/amdefine/-/amdefine-0.1.0.tgz
+npm http 200 https://registry.npmjs.org/amdefine/-/amdefine-0.1.0.tgz
+Binary is fine; exiting
+underscore@1.5.2 node_modules/underscore
+
+eachline@2.3.3 node_modules/eachline
++-- type-of@2.0.1
+
+semver@4.1.0 node_modules/semver
+
+chalk@0.5.1 node_modules/chalk
++-- escape-string-regexp@1.0.3
++-- ansi-styles@1.1.0
++-- supports-color@0.2.0
++-- strip-ansi@0.3.0 (ansi-regex@0.2.1)
++-- has-ansi@0.1.0 (ansi-regex@0.2.1)
+
+fibers@1.0.5 node_modules/fibers
+
+source-map-support@0.2.8 node_modules/source-map-support
++-- source-map@0.1.32 (amdefine@0.1.0)
+NPM install complete
+daemon reload done
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+job-working-directory: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+job-working-directory: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+job-working-directory: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+job-working-directory: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+Redirecting to /bin/systemctl restart  meteor.service
+Meteor Service restarted!
+
+
+[root@aardvark nginx]# sudo service meteor status
+Redirecting to /bin/systemctl status  meteor.service
+meteor.service - SystemD startup script for meteor
+   Loaded: loaded (/etc/systemd/system/multi-user.target.wants/meteor.service)
+   Active: failed (Result: start-limit) since Mon 2015-07-27 22:57:18 EDT; 37min ago
+  Process: 30109 ExecStart=/bin/sh -c /bin/node /var/www/build/bundle/main.js (code=exited, status=8)
+ Main PID: 30109 (code=exited, status=8)
+
+Jul 27 22:57:18 aardvark systemd[1]: Unit meteor.service entered failed state.
+Jul 27 22:57:18 aardvark systemd[1]: meteor.service holdoff time over, scheduling restart.
+Jul 27 22:57:18 aardvark systemd[1]: Stopping SystemD startup script for meteor...
+Jul 27 22:57:18 aardvark systemd[1]: Starting SystemD startup script for meteor...
+Jul 27 22:57:18 aardvark systemd[1]: meteor.service start request repeated too quickly, refusing to start.
+Jul 27 22:57:18 aardvark systemd[1]: Failed to start SystemD startup script for meteor.
+Jul 27 22:57:18 aardvark systemd[1]: Unit meteor.service entered failed state.
+[root@aardvark nginx]#  /var/www/build/bundle/main.js (code=exited, status=8)

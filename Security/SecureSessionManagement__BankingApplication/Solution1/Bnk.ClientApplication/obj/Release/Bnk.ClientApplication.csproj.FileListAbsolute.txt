@@ -1,0 +1,12 @@
+G:\Architecture\4-10-15\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Release\Bnk.ClientApplication.exe.config
+G:\Architecture\4-10-15\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Release\Bnk.ClientApplication.exe
+G:\Architecture\4-10-15\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Release\Bnk.ClientApplication.pdb
+G:\Architecture\4-10-15\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Release\Bnk.ClientApplication.csprojResolveAssemblyReference.cache
+G:\Architecture\4-10-15\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Release\Bnk.ClientApplication.exe
+G:\Architecture\4-10-15\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Release\Bnk.ClientApplication.pdb
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.ClientApplication\bin\Release\Bnk.ClientApplication.exe.config
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.ClientApplication\bin\Release\Bnk.ClientApplication.exe
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.ClientApplication\bin\Release\Bnk.ClientApplication.pdb
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.ClientApplication\obj\Release\Bnk.ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.ClientApplication\obj\Release\Bnk.ClientApplication.exe
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.ClientApplication\obj\Release\Bnk.ClientApplication.pdb

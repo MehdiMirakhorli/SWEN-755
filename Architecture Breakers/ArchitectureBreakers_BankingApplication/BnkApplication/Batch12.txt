@@ -1,0 +1,3 @@
+GBI;GTI;Payer;PayerAccountID;Payee;PayeeID;TransDetail;Amount
+22222222;1111;SMTest2;12;SMTest1;11;SessionManagementTest1;1000
+22222222;2222;SMTest2;12;SMTest3;13;SessionManagementTest3;1000
