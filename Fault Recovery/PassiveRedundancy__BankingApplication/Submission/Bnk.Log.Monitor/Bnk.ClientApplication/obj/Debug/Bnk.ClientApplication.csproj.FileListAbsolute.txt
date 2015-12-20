@@ -1,0 +1,12 @@
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Debug\Bnk.ClientApplication.exe.config
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Debug\Bnk.ClientApplication.exe
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Debug\Bnk.ClientApplication.pdb
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Debug\Bnk.ClientApplication.exe
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Debug\Bnk.ClientApplication.pdb
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Debug\Bnk.ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\Priyank Kapadia\Architecture\Submission\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Debug\Bnk.ClientApplication.exe.config
+C:\Users\Priyank Kapadia\Architecture\Submission\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Debug\Bnk.ClientApplication.exe
+C:\Users\Priyank Kapadia\Architecture\Submission\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Debug\Bnk.ClientApplication.pdb
+C:\Users\Priyank Kapadia\Architecture\Submission\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Debug\Bnk.ClientApplication.exe
+C:\Users\Priyank Kapadia\Architecture\Submission\Bnk.Log.Monitor\Bnk.ClientApplication\bin\Debug\Bnk.ClientApplication.pdb
+C:\Users\Priyank Kapadia\Architecture\Submission\Bnk.Log.Monitor\Bnk.ClientApplication\obj\Debug\Bnk.ClientApplication.csprojResolveAssemblyReference.cache
