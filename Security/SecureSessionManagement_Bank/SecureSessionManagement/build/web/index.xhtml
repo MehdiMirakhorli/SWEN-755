@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:pt="http://xmlns.jcp.org/jsf/passthrough"
+      >
+    <h:head>
+        <title>Bank system login</title>
+    </h:head>
+    <h:body>        
+        <section class="">
+            <h:form>
+            <h2>Login</h2>
+            <p><h:inputText pt:placeholder="User" value="#{mbLogin.user}"/></p>
+            <p><h:inputSecret pt:placeholder="Password" value="#{mbLogin.password}" /></p>
+            <h:messages/>
+            <section class="button">
+                <h:commandButton value="Log in" action="#{mbLogin.login()}" />
+            </section>
+            </h:form>
+        </section>
+    </h:body>
+</html>
+
