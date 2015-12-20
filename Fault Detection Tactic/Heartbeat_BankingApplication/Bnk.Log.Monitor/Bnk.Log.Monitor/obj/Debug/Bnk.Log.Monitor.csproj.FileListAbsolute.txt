@@ -1,0 +1,8 @@
+c:\users\priyank kapadia\documents\visual studio 2013\Projects\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.pdb
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.ProjectInstaller.resources
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.csproj.GenerateResource.Cache
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.exe
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.pdb

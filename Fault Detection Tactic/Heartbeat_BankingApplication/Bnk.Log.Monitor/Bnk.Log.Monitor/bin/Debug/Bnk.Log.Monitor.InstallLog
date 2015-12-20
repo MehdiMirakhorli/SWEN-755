@@ -1,0 +1,1219 @@
+﻿Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Uninstalling assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.InstallLog
+   assemblypath = C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe

@@ -1,0 +1,34 @@
+c:\users\priyank kapadia\documents\visual studio 2013\Projects\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.pdb
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.ProjectInstaller.resources
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.csproj.GenerateResource.Cache
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.exe
+C:\Users\Priyank Kapadia\Architecture\Bnk.Log.Monitor\Bnk.Log.Monitor\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.pdb
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.pdb
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.ProjectInstaller.resources
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.csproj.GenerateResource.Cache
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.exe
+C:\Users\Raghuram\Documents\Visual Studio 2015\Projects\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.pdb
+C:\4-10-15\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\4-10-15\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+C:\4-10-15\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.pdb
+C:\4-10-15\Solution1\Bnk.Log.Monitor\bin\Debug\Microsoft.Web.Administration.dll
+C:\4-10-15\Solution1\Bnk.Log.Monitor\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\4-10-15\Solution1\Bnk.Log.Monitor\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\4-10-15\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.ProjectInstaller.resources
+C:\4-10-15\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.csproj.GenerateResource.Cache
+C:\4-10-15\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.exe
+C:\4-10-15\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.pdb
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe.config
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.exe
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\bin\Debug\Bnk.Log.Monitor.pdb
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.ProjectInstaller.resources
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.csproj.GenerateResource.Cache
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.exe
+C:\Users\Raghuram\Documents\Fall 2015\Architecture\Submission\Solution1\Bnk.Log.Monitor\obj\Debug\Bnk.Log.Monitor.pdb
