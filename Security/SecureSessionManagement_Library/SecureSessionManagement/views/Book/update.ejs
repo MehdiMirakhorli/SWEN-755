@@ -1,0 +1,36 @@
+
+<% if (typeof notFound != 'undefined') {%>
+<div class="custom-error-message">The book is not found</div>
+<%} else {%>
+    <div class="easyui-panel" title="Update book" fit="true">
+        <form id="ff"  method="post" style="width:100%;max-width:400px;padding:30px 60px;">
+            <div style="margin-bottom:20px; ">
+                <input class="easyui-textbox" name="name" style="width:100%"
+                        <%if (typeof book.name != 'undefined') {%>  value="<%= book.name %>"  <%}%>
+                       data-options="label:'Book name:'"
+                >
+            </div>
+
+            <div style="margin-bottom:20px">
+                <input class="easyui-textbox" name="author" style="width:100%"
+                        <%if (typeof book.author != 'undefined') {%>  value="<%= book.author %>"  <%}%>
+                       data-options="label:'Book author:'">
+            </div>
+            <input type="hidden" name="id">
+
+            <div style="text-align:center;padding:5px 0">
+                <a href="javascript:void(0)" class="easyui-linkbutton" onclick="submitForm()" style="width:80px">Update</a>
+                <a href="javascript:void(0)" class="easyui-linkbutton" onclick="clearForm()" style="width:80px">Clear</a>
+            </div>
+
+        </form>
+    </div>
+    <script>
+        function submitForm(){
+            document.getElementById("ff").submit();
+        }
+        function clearForm(){
+            $('#ff').form('clear');
+        }
+    </script>
+<%}%>
