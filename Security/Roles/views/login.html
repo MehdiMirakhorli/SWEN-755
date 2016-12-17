@@ -1,0 +1,29 @@
+<!doctype HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/static/css/bulma.css">
+        <title>Login</title>
+    </head>
+    <body>
+        <div class="box" style="width:50%;margin:10px auto">
+            <form action="/login" method="post" class="content">
+                <h1 class="title has-text-centered">Login</h1>
+                <label class="label">Username</label>
+                <p class="control">
+                    <input type="text" name="username" autofocus class="input" placeholder="Username" required autocomplete="off">
+                </p>
+                <label class="label">Password</label>
+                <p class="control">
+                    <input type="password" name="password" class="input" placeholder="Password" required><br>
+                </p>
+                <p class="control" style="text-align:center !important;">
+                    <input type="submit" value="Sign in" class="button is-primary is-outlined" />
+                </p>
+            </form>
+            {% if error %}
+                <div class="notification is-danger"> {{error}} </div>
+            {% endif %}
+        </body>
+    </div>
+</html>

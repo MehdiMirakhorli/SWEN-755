@@ -1,0 +1,27 @@
+<!doctype HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/static/css/bulma.css">
+        <title>Dashboard</title>
+    </head>
+    <body>
+        <div class="box" style="width:50%;margin:10px auto">
+            <p class="has-text-right">
+                <a class="button is-outlined" href="/logout">
+                    Sign out <span class="icon"><i class="fa fa-sign-in" aria-hidden="true"></i></span>
+                </a>
+            </p>
+            <h1 class="title has-text-centered" style="margin: 50px auto;">
+                <span class="icon is-large"><i class="fa fa-home" aria-hidden="true"></i></span>
+                <span style="vertical-align: sub;">Welcome to the dashboard!</span>
+            </h1>
+            {% if role == 'ADM' %}
+            <h2 class="subtitle"><a href="/admin_info">Link for admins</a></h2>
+            {% endif %}
+            {% if role == 'ADM' or role == 'SUP' %}
+            <h2 class="subtitle"><a href="/admin_supervisor_info">Link for admins and supervisors</a></h2>
+            {% endif %}
+        </div>
+    </body>
+</html>
