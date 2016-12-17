@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        Welcome, {{ username }} (Role: {{ user_group }})
+        <br><br>
+        <a href="{% url 'secret_info' %}">Get secret info</a>
+        <br>
+        Requested info: {{ info }}
+        <br> <br>
+        <a href="{% url 'logout' %}">Logout</a>
+    </body>
+</html>
