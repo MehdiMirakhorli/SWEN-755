@@ -1,0 +1,124 @@
+
+<table id="privilige-dg" class="easyui-datagrid"   fit="true" fitColumns="true" style="border:1px solid #ccc;"
+       singleSelect="true"
+       data-options="idField:'id', rownumbers:true,onClickCell: onClickCell,
+                onEndEdit: onEndEdit">
+    <thead>
+    <tr>
+        <th data-options="field:'id', width: 150, hidden:'true'">ID</th>
+        <th data-options="field:'name', width: 150">Email</th>
+        <th data-options="field:'canAddBook', width: 150,formatter:formatCheckbox, align:'center',editor:{type:'checkbox',options:{on:'true',off:''}}">Add book</th>
+        <th data-options="field:'canEditBook', width: 150,formatter:formatCheckbox,align:'center',editor:{type:'checkbox',options:{on:'true',off:''}}">Edit book</th>
+        <th data-options="field:'canRemoveBook', width: 150,formatter:formatCheckbox,align:'center',editor:{type:'checkbox',options:{on:'true',off:''}}">Remove book</th>
+    </tr>
+    </thead>
+    <tbody>
+    <% _.each(users, function(user) {%>
+    <tr>
+        <td><%=user.id%></td>
+        <td><%=user.email%></td>
+        <td><%=user.canAddBook%></td>
+        <td><%=user.canEditBook%></td>
+        <td><%=user.canRemoveBook%></td>
+    </tr>
+    <% }) %>
+    </tbody>
+</table>
+
+<script>
+    function getSelected(){
+        var user = $('#privilige-dg').datagrid('getSelected');
+        if (user){
+            return user;
+        } else {
+            return;
+        }
+    }
+
+    function editSelected() {
+        var user = getSelected();
+        if (user) {
+            window.location = "/user/update/" + user.id;
+        } else {
+            $.messager.alert('Error', 'You have to select a user', 'error');
+        }
+    }
+
+</script>
+
+<script type="text/javascript">
+
+    var editIndex = undefined;
+    function endEditing(){
+        if (editIndex == undefined){return true}
+        if ($('#privilige-dg').datagrid('validateRow', editIndex)){
+            $('#privilige-dg').datagrid('endEdit', editIndex);
+            editIndex = undefined;
+            return true;
+        } else {
+            return false;
+        }
+    }
+    function onClickCell(index, field){
+        if (editIndex != index){
+            if (endEditing()){
+                $('#privilige-dg').datagrid('selectRow', index)
+                        .datagrid('beginEdit', index);
+                var ed = $('#privilige-dg').datagrid('getEditor', {index:index,field:field});
+                if (ed){
+                    ($(ed.target).data('textbox') ? $(ed.target).textbox('textbox') : $(ed.target)).focus();
+                }
+                editIndex = index;
+            } else {
+                setTimeout(function(){
+                    $('#privilige-dg').datagrid('selectRow', editIndex);
+                },0);
+            }
+        }
+    }
+    function onEndEdit(index, row){
+        var ed = $(this).datagrid('getEditor', {
+            index: index,
+            field: 'id'
+        });
+
+        var canAddBook = (row.canAddBook == 'true');
+        var canEditBook = (row.canEditBook == 'true');
+        var canRemoveBook = (row.canRemoveBook == 'true');
+
+        $.post('/updatePriviledge',{id: row.id, canAddBook:canAddBook, canEditBook:canEditBook,
+            canRemoveBook:canRemoveBook},function(result){
+            if (!result.successMessage){
+                $.messager.show({    // show error message
+                    title: 'Error',
+                    msg: 'Could not update!'
+                });
+            }
+        },'json');
+    }
+
+
+    function accept(){
+        if (endEditing()){
+            $('#privilige-dg').datagrid('acceptChanges');
+        }
+    }
+    function reject(){
+        $('#privilige-dg').datagrid('rejectChanges');
+        editIndex = undefined;
+    }
+    function getChanges(){
+        var rows = $('#privilige-dg').datagrid('getChanges');
+        alert(rows.length+' rows are changed!');
+    }
+
+    function formatCheckbox(value, row) {
+        var checkboxValue = '';
+        if(value)
+            if(value == 'true'  )
+                checkboxValue = 'checked';
+
+        return '<div style="width:100%; text-align:center"><input type="checkbox" name="vehicle" value="' + value + '" ' + checkboxValue + '/></div>';
+
+    }
+</script>

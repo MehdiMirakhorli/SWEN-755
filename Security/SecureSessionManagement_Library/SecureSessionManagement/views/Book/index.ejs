@@ -1,0 +1,57 @@
+
+<table id="dg" class="easyui-datagrid"   fit="true" fitColumns="true" style="border:1px solid #ccc;"
+       singleSelect="true"
+       data-options="toolbar:'#tb', idField:'id', rownumbers:true">
+    <thead>
+    <tr>
+        <th data-options="field:'id', width: 150, hidden:'true'">ID</th>
+        <th data-options="field:'name', width: 150">Name</th>
+        <th data-options="field:'author', width: 150">Author</th>
+    </tr>
+    </thead>
+    <tbody>
+    <% _.each(books, function(book) {%>
+    <tr>
+        <td><%=book.id%></td>
+        <td><%=book.name%></td>
+        <td><%=book.author%></td>
+    </tr>
+    <% }) %>
+    </tbody>
+</table>
+
+<div id="tb" style="padding:2px 5px;">
+    <a href="/book/insert" class="easyui-linkbutton" iconCls="icon-add" >Add</a>
+    <a href="#" class="easyui-linkbutton" iconCls="icon-edit" onclick="editSelected()">Edit</a>
+    <a href="#" class="easyui-linkbutton" iconCls="icon-remove" onclick="removeSelected()" >Remove</a>
+</div>
+
+<script>
+    function getSelected(){
+        var book = $('#dg').datagrid('getSelected');
+        if (book){
+            return book;
+        } else {
+            return;
+        }
+    }
+
+    function editSelected() {
+        var book = getSelected();
+        if (book) {
+            window.location = "/book/update/" + book.id;
+        } else {
+            $.messager.alert('Error', 'You have to select a book', 'error');
+        }
+    }
+
+    function removeSelected() {
+        var book = getSelected();
+        if (book) {
+            window.location = "/utility/remove/" + book.id;
+        } else {
+            $.messager.alert('Error', 'You have to select a book', 'error');
+        }
+    }
+
+</script>

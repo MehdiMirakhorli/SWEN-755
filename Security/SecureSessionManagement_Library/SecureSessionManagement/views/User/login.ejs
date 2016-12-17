@@ -1,0 +1,49 @@
+
+<div class="easyui-panel" title="Login" fit="true">
+    <form id="ff" method="post" style="width:100%;max-width:400px;padding:30px 60px;" action="/login">
+        <div style="margin-bottom:20px; ">
+            <input class="easyui-textbox" name="email" validType="email" style="width:100%"
+                   data-options="label:'Email:',required:true">
+        </div>
+
+        <div style="margin-bottom:20px">
+            <input type="password" class="easyui-textbox" name="password" style="width:100%"
+                   data-options="label:'Password:',required:true">
+        </div>
+        <div style="text-align:center;padding:5px 0">
+            <a href="javascript:void(0)" class="easyui-linkbutton" onclick="login()" style="width:80px">Login</a>
+            <a href="javascript:void(0)" class="easyui-linkbutton" onclick="clearForm()" style="width:80px">Clear</a>
+        </div>
+    </form>
+
+</div>
+<script>
+
+    function login(){
+        document.getElementById("ff").submit();
+//        $('#ff').form('submit',{
+//            url: '/auth/login',
+//            onSubmit: function(){
+//                return $(this).form('validate');
+//            },
+//            success: function(result){
+//                var result = eval('('+result+')');
+//                if (result.errorMsg){
+//                    $.messager.show({
+//                        title: 'Error',
+//                        msg: result.errorMsg
+//                    });
+//                } else {
+//                    $.messager.show({
+//                        title: 'Error',
+//                        msg: 'Hello'
+//                    });
+//                }
+//            }
+//        });
+    }
+
+    function clearForm(){
+        $('#ff').form('clear');
+    }
+</script>

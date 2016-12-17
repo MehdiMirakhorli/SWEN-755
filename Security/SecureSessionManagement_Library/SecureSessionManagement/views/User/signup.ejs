@@ -1,0 +1,28 @@
+<div class="easyui-panel" title="Signup" fit="true">
+    <form id="ff" method="post" style="width:100%;max-width:400px;padding:30px 60px;">
+        <div style="margin-bottom:20px; ">
+            <input class="easyui-textbox" name="email"  style="width:100%"
+                   data-options="label:'Email:',required:true">
+        </div>
+
+        <div style="margin-bottom:20px">
+            <input type="password" class="easyui-textbox" name="password" style="width:100%"
+                   data-options="label:'Password:',required:true">
+        </div>
+        <div style="text-align:center;padding:5px 0">
+            <a href="javascript:void(0)" class="easyui-linkbutton" onclick="signup()" style="width:80px">Signup</a>
+            <a href="javascript:void(0)" class="easyui-linkbutton" onclick="clearForm()" style="width:80px">Clear</a>
+        </div>
+    </form>
+
+</div>
+<script>
+
+    function signup(){
+        document.getElementById("ff").submit();
+    }
+
+    function clearForm(){
+        $('#ff').form('clear');
+    }
+</script>
