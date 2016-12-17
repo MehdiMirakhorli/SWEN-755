@@ -44,3 +44,8 @@ components. The monitoring module will notice that the component stopped
 
 * Jairo Pavel Veloz Vidal (@jpavelw)
 * Arun Gopinathan (@arung90)
+
+## License
+
+The underlying source code used to format and display that content is licensed 
+under the [MIT license](https://github.com/jpavelw/SWEN-756/blob/master/Fault%20Detection%20Tactic/CPB/LICENSE)
